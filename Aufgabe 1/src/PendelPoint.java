@@ -1,4 +1,4 @@
-import org.amcgala.Framework;
+bandimport org.amcgala.Framework;
 import org.amcgala.RGBColor;
 import org.amcgala.animation.Updatable;
 import org.amcgala.math.Vertex3f;
